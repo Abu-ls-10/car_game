@@ -31,11 +31,8 @@ To run the game, you need to have Python and Pygame installed on your system.
 
 ## Credits
 
-This game was created by [INSERT YOUR NAME OR USERNAME] as a project for [INSERT COURSE OR INSPIRATION].
+This game was created by Abu-ls-10 as a project initially for ICS3U.
 
-## License
-
-[INSERT LICENSE INFORMATION IF APPLICABLE]
 
 Enjoy playing! If you encounter any issues or have suggestions for improvements, feel free to [provide feedback or contribute](https://github.com/your-repository-link).
 
